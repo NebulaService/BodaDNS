@@ -13,7 +13,7 @@
       },
       "VPN": {
         "AutoConnect": true,
-        "Host": "5.189.139.56",
+        "Host": "158.101.114.159",
         "IPsec": {
           "IKEVersion": 1,
           "AuthenticationType": "PSK",
