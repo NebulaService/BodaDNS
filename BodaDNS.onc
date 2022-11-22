@@ -1,5 +1,3 @@
-
-
 {
   "Type": "UnencryptedConfiguration",
   "NetworkConfigurations": [
@@ -10,7 +8,7 @@
       "NameServersConfigType": "Static",
       "StaticIPConfig": {
         "NameServers": [
-          "5.189.139.56"
+          "158.101.114.159"
         ]
       },
       "VPN": {
