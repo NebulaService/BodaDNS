@@ -19,7 +19,7 @@
       "NameServersConfigType": "Static",
       "StaticIPConfig": {
 		"NameServers": [
-			"158.101.114.159",
+			"156.146.51.129",
 		],
 		"Type": "IPv4"
 	   },
